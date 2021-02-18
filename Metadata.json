@@ -1,0 +1,20 @@
+{
+    "Author": "Kranthi Kumar",
+    "ContentSize": 8174,
+    "ContentUrl": "https://github.com/azureautomation/Create-Automation-Linux-HybridWorker/blob/main/CreateLinuxHWG.ps1",
+    "DownloadCount": 0,
+    "Id": "azureautomation/Create-Automation-Linx-HybridWorker",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 5,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2021-02-18T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": " This runbook aids users in Creating Linux User Hybrid workers.This script must be executed on a Run As Enabled Automation Account only.",
+    "Title": "Create Automation Linux HybridWorker",
+    "UpdatedDate": "2021-02-18T00:00:00",
+    "Url": "https://github.com/azureautomation/Create-Automation-Linux-HybridWorker",
+    "UserTags": "Powershell, Azure Automation, Microsoft Azure Virtual Machines"
+}
