@@ -1,7 +1,7 @@
 {
     "Author": "Kranthi Kumar",
     "ContentSize": 8174,
-    "ContentUrl": "https://github.com/azureautomation/Create-Automation-Linux-HybridWorker/blob/main/CreateLinuxHWG.ps1",
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/Create-Automation-Linux-HybridWorker/main/CreateLinuxHWG.ps1",
     "DownloadCount": 0,
     "Id": "azureautomation/Create-Automation-Linx-HybridWorker",
     "IsFederated": false,
