@@ -4,7 +4,7 @@
     "ContentUrl": "https://raw.githubusercontent.com/azureautomation/Create-Automation-Linux-HybridWorker/main/CreateLinuxHWG.ps1",
     "DownloadCount": 0,
     "Id": "azureautomation/Create-Automation-Linx-HybridWorker",
-    "IsFederated": false,
+    "IsFederated": true,
     "IsWorkflow": false,
     "Popularity": 5,
     "RaterCount": 0,
