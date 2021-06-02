@@ -342,7 +342,7 @@ function RegisterLinuxHW {
 }
 
 
-# Login-AzAccount
+Login-AzAccount
 
 if ($CreateVM -eq $true) {
     #Create a VM
