@@ -57,6 +57,9 @@
 .PARAMETER RegisterHW
     Required. True, Registers the provided VM as a Hybrid Worker. False, Doesn't register the VM as a Hybrdid Worker.
 
+.PARAMETER WorkerGroupName
+    Name of the Hybrid Worker Group. 
+    
 .Example
     .\CreateLinuxHWG  -location <location> -ResourceGroupName <ResourceGroupName> `
      -AccountName <accountname> -CreateLA <$true/$false> -lalocation <lalocation> `
@@ -92,7 +95,7 @@ Param(
     [bool] $RegisterHW,
     [Parameter(Mandatory = $false)]
     [String] $vmlocation,
-    [Parameter(Mandatory = $false)]
+    [Parameter(Mandatory = $true)]
     [String] $WorkerGroupName
 )
  
