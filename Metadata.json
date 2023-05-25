@@ -12,7 +12,7 @@
     "ReleaseDate": "2021-02-18T00:00:00",
     "RunbookKind": 5,
     "RunbookKindString": "PowerShell",
-    "Summary": " This runbook aids users in Creating Linux User Hybrid workers.This script must be executed on a Run As Enabled Automation Account only.",
+    "Summary": " This runbook aids users in Creating Linux User Hybrid workers.This script must be executed on a Identity Enabled Automation Account only.",
     "Title": "Create Automation Linux HybridWorker",
     "UpdatedDate": "2021-02-18T00:00:00",
     "Url": "https://github.com/azureautomation/Create-Automation-Linux-HybridWorker",
