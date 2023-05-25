@@ -5,7 +5,7 @@
     Since onboarding a VM to Automation Hybrid Worker requires a Log Analytics workspace, this script also gives the feasibility to the users to provide an already exisiting Log Analytics workspace or the script could also create one for the users.
     This Runbook needs to be run from the Automation account that you wish to connect the VM to.
     
-    This script must be executed on a Run As Enabled Automation Account only.   
+    This script must be executed on a Identity Enabled Automation Account only.   
     This would require the following modules to be present in the Automation account :  
     Az.Accounts, Az.Resources, Az.Automation, Az.OperationalInsights, Az.Compute 
 
@@ -18,7 +18,7 @@
     Since onboarding a VM to Automation Hybrid Worker requires a Log Analytics workspace, this script also gives the feasibility to the users to provide an already exisiting Log Analytics workspace or the script could also create one for the users.
     This Runbook needs to be run from the Automation account that you wish to connect the VM to.
     
-    This script must be executed on a Run As Enabled Automation Account only.   
+    This script must be executed on a Identity Enabled Automation Account only.   
     This would require the following modules to be present in the Automation account :  
     Az.Accounts, Az.Resources, Az.Automation, Az.OperationalInsights, Az.Compute 
  
